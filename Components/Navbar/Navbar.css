@@ -1,0 +1,12 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+
+.hi{
+    width: 80%;
+    
+}
+.about{
+    gap: 35px;
+}

@@ -1,0 +1,16 @@
+.jii{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: space-around;
+    /* background-color: black; */
+}
+.ji{
+    gap: 40px;
+    /* width: 100%; */
+}
+h2{
+    width: 100%;
+    background-color: rgb(204, 132, 132);
+    text-align: center;
+}
